@@ -1,6 +1,3 @@
-from traceback import print_tb
-
-
 def send_to_change(listuta, value):
     for i in range(value * value, len(listuta), value):
         listuta[i] = 1

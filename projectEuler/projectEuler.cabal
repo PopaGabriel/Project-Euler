@@ -28,7 +28,6 @@ library
       Lib
       Problem10.SumOfPrimes
       Problem11.LargestProductInAMatrix
-      Problem12.Setup
       Problem2.EvenFibbonaci
       Problem3.LargestPrimeNumber
       Problem4.LargestPalindrome
